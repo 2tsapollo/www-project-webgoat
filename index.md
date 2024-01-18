@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP WebGoat
-tags: webgoat
+tags: webgoat, test
 level: 3
 type: tool
 
