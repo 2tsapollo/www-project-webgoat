@@ -4,6 +4,7 @@
 
 ### Code Repository
 * [Source code](https://github.com/WebGoat/WebGoat)
+* [Source code](https://github.com/2tsapollo/www-project-webgoat.git)
 
 ### Helping the Goat!
 * [Report an issue](https://github.com/WebGoat/WebGoat/issues)
